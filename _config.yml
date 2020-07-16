@@ -22,7 +22,7 @@ title: CONCUR 2020
 description: >- # this means to ignore newlines until "baseurl:"
   This is a website of the the 31st International Conference on Concurrency Theory
   (CONCUR 2020).
-baseurl: "/" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 #url: "https://concur2020.github.com"
 url: "https://concur2020.github.io"
   # the base hostname & protocol for your site, e.g. http://example.com
