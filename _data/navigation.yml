@@ -1,0 +1,37 @@
+main:
+  - title: "Call for Papers"
+    url: papers/2019/08/21/cfp.html
+  - title: "Accepted Papers"
+    url: papers/2020/06/28/accepted.html
+  - title: "Keynotes"
+    url: keynotes/2019/08/21/keynotes.html
+  - title: "Test of Time"
+    url: awards/2020/02/24/test-of-time.html
+  - title: "Organization"
+    url: org/2019/08/21/organization.html
+
+dates:
+  - title: "Pages"
+    children:
+      - title: "Recent posts"
+        url: /recent.html
+  - title: Important dates (AoE)
+    children:
+      - title: "<b>Conference</b>"
+      - title: "September 1-4, 2020"
+      - title: "<b>Workshops</b>"
+      - title: "August 31, 2020"
+      - title: "September 5, 2020"
+      - title: "<b>Camera-ready</b>"
+      - title: "July 17, 2020"
+      - title: "<s>July 3, 2020</s>"
+      - title: "<b>Notification</b>"
+      - title: "June 28, 2020"
+      - title: "<s>June 14, 2020</s>"
+      - title: "<b>Paper submission</b>"
+      - title: "May 6, 2020"
+      - title: "<s>April 22, 2020</s>"
+      - title: "<b>Abstract submission</b>"
+      - title: "April 28, 2020"
+      - title: "<s>April 15, 2020</s>"
+
