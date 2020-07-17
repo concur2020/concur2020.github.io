@@ -1,12 +1,23 @@
 ---
 layout: single
 title:  "Keynotes"
-date:   2019-08-21 23:59:59 +0200
+date:   2020-07-17 23:59:59 +0200
+read_time: false
 categories: keynotes
 ---
 
-* [Roderick Bloem](https://www.iaik.tugraz.at/person/roderick-bloem/) - TU Graz (Austria)
-* [Thomas A. Henzinger](https://pub.ist.ac.at/~tah/) - IST (Austria)
-* [Annabelle McIver](https://researchers.mq.edu.au/en/persons/annabelle-mciver) - Macquarie University (Australia)
-* [Catuscia Palamidessi](http://www.lix.polytechnique.fr/Labo/Catuscia.Palamidessi/) - INRIA Saclay and LIX (France)
+|:---------------------:|:-----------------------:|
+| ![Roderick Bloem][rb] | ![Annabelle McIver][am] |
+| [Roderick Bloem][rbhome] - TU Graz (Austria) | [Annabelle McIver][amhome] - Macquarie University (Australia) |
+| ![Thomas A. Henzinger][th] | ![Catuscia Palamidessi][cp] |
+| [Thomas A. Henzinger][thhome] - IST (Austria) | [Catuscia Palamidessi][cphome] - INRIA Saclay and LIX (France) |
+
+[rb]: /assets/images/rb.jpg "Roderick Bloem"
+[th]: /assets/images/th.gif "Thomas A. Henzinger"
+[am]: /assets/images/am.jpg "Annabelle McIver"
+[cp]: /assets/images/cp.jpg "Catuscia Palamidessi"
+[rbhome]: https://www.iaik.tugraz.at/person/roderick-bloem/
+[thhome]: https://pub.ist.ac.at/~tah/
+[amhome]: https://researchers.mq.edu.au/en/persons/annabelle-mciver
+[cphome]: http://www.lix.polytechnique.fr/Labo/Catuscia.Palamidessi/
 
