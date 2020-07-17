@@ -1,18 +1,22 @@
 main:
-  - title: "Call for Papers"
-    url: /cfp.html
+  - title: "Registration"
+    url: /registration.html
   - title: "Accepted Papers"
     url: /accepted.html
   - title: "Keynotes"
     url: /keynotes.html
   - title: "Test of Time"
     url: /test-of-time.html
+  - title: "Call for Papers"
+    url: /cfp.html
   - title: "Organization"
     url: /organization.html
 
 dates:
   - title: "Pages"
     children:
+      - title: "Registration"
+        url: /registration.html
       - title: "Accepted Papers"
         url: /accepted.html
       - title: "Workshops"
