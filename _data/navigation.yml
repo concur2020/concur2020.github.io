@@ -1,20 +1,28 @@
 main:
   - title: "Call for Papers"
-    url: papers/2019/08/21/cfp.html
+    url: /cfp.html
   - title: "Accepted Papers"
-    url: papers/2020/06/28/accepted.html
+    url: /accepted.html
   - title: "Keynotes"
-    url: keynotes/2019/08/21/keynotes.html
+    url: /keynotes.html
   - title: "Test of Time"
-    url: awards/2020/02/24/test-of-time.html
+    url: /test-of-time.html
   - title: "Organization"
-    url: org/2019/08/21/organization.html
+    url: /organization.html
 
 dates:
   - title: "Pages"
     children:
-      - title: "Recent posts"
-        url: /recent.html
+      - title: "Accepted Papers"
+        url: /accepted.html
+      - title: "Workshops"
+        url: /workshops.html
+      - title: "Keynotes"
+        url: /keynotes.html
+      - title: "Test of Time"
+        url: /test-of-time.html
+      - title: "Organization"
+        url: /organization.html
   - title: Important dates (AoE)
     children:
       - title: "<b>Conference</b>"

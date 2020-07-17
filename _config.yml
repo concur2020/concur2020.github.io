@@ -41,10 +41,9 @@ plugins:
   - jekyll-include-cache
 
 defaults:
-  # _posts
   - scope:
       path: ""
-      type: posts
+      #type: posts
     values:
       read_time: true    
       sidebar:

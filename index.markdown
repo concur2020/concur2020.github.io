@@ -27,6 +27,16 @@ comprising the joint international 2020 meetings CONCUR,
 alongside with several workshops
 and tutorials.
 
+## Co-located workshops and tutorials
+
+ * EXPRESS/SOS
+ * SNR
+ * QAVS
+ * TRENDS
+ * [FRIDA](https://frida2020.galois.com/)
+
+ More details at the [workshops page](/workshops.md).
+
 ## Venue
 
 CONCUR 2020 takes place __online__,
@@ -39,10 +49,6 @@ Organizers' address: __TU Wien__, Karlsplatz 13, 1040 Wien
  * [17th International Conference on Quantitative Evaluation of SysTems (QEST 2020)](http://www.qest.org/qest2020/)
  * [18th International Conference on Formal Modeling and Analysis of Timed Systems (FORMATS 2020)](https://formats-2020.cs.ru.nl/)
  * [25th International Conference on Formal Methods for Industrial Critical Systems (FMICS 2020)](https://fmics20.ait.ac.at)
-
-## Co-located workshops and tutorials
-
-TBA
 
 See the call for papers for further details.
 
