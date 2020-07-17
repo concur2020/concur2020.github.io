@@ -12,6 +12,8 @@ categories: keynotes
 | ![Thomas A. Henzinger][th] | ![Catuscia Palamidessi][cp] |
 | [Thomas A. Henzinger][thhome] - IST (Austria) | [Catuscia Palamidessi][cphome] - INRIA Saclay and LIX (France) |
 
+More at the [QONFEST page](https://qonfest2020.github.io/invited.html).
+
 [rb]: /assets/images/rb.jpg "Roderick Bloem"
 [th]: /assets/images/th.gif "Thomas A. Henzinger"
 [am]: /assets/images/am.jpg "Annabelle McIver"
