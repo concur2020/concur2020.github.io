@@ -3,14 +3,16 @@ main:
     url: /registration.html
   - title: "Accepted Papers"
     url: /accepted.html
+  - title: "Workshops"
+    url: /workshops.html
   - title: "Keynotes"
     url: /keynotes.html
   - title: "Test of Time"
     url: /test-of-time.html
-  - title: "Call for Papers"
-    url: /cfp.html
   - title: "Organization"
     url: /organization.html
+  - title: "Call for Papers"
+    url: /cfp.html
 
 dates:
   - title: "Pages"
@@ -27,6 +29,8 @@ dates:
         url: /test-of-time.html
       - title: "Organization"
         url: /organization.html
+      - title: "Call for Papers"
+        url: /cfp.html
   - title: Important dates (AoE)
     children:
       - title: "<b>Conference</b>"
