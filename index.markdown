@@ -29,9 +29,9 @@ and tutorials.
 
 ## Co-located workshops and tutorials
 
- * EXPRESS/SOS
- * SNR
- * QAVS
+ * [EXPRESS/SOS] (https://express-sos2020.cs.ru.nl/)
+ * [SNR] (http://www.cs.cas.cz/snr2020/)
+ * [QAVS] (https://qavs.edgecloud.de/)
  * TRENDS
  * [FRIDA](https://frida2020.galois.com/)
 
