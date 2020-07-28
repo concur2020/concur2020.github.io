@@ -19,7 +19,7 @@ CONCUR 2020 deadlines have been adjusted with __two weeks deadline
 extensions__.
 
 CONCUR 2020 is part of the umbrella conference
-[QONFEST 2020](http://qonfest2020.conf.tuwien.ac.at/index.html)
+[QONFEST 2020](https://qonfest2020.github.io/)
 comprising the joint international 2020 meetings CONCUR,
 [FMICS](https://fmics20.ait.ac.at),
 [FORMATS](https://formats-2020.cs.ru.nl/),
