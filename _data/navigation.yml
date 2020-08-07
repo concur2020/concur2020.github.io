@@ -1,6 +1,8 @@
 main:
   - title: "Registration"
     url: /registration.html
+  - title: "Participation"
+    url: /participation.html
   - title: "Program"
     url: https://easychair.org/smart-program/CONCUR20/
   - title: "Accepted Papers"
@@ -21,6 +23,8 @@ dates:
     children:
       - title: "Registration"
         url: /registration.html
+      - title: "Participation"
+        url: /participation.html
       - title: "Program"
         url: https://easychair.org/smart-program/CONCUR20/
       - title: "Accepted Papers"
