@@ -27,7 +27,7 @@ Monday, August 31, 2020, online
 
 ## TRENDS
 
-tba
+[TRENDS](https://concurrency-theory.org/events/workshops/trends): TRENDS 2020 brings together researchers interested in Concurrency Theory and its applications, to exchange ideas and discuss recent trends and open problems.
 
 Saturday, Sept 5, 2020, online
 

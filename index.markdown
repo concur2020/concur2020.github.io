@@ -32,7 +32,7 @@ and tutorials.
  * [EXPRESS/SOS](https://express-sos2020.cs.ru.nl/)
  * [FRIDA](https://frida2020.galois.com/)
  * [SNR](http://www.cs.cas.cz/snr2020/)
- * TRENDS
+ * [TRENDS](https://concurrency-theory.org/events/workshops/trends)
  * [QAVS](https://qavs.edgecloud.de/)
 
 
