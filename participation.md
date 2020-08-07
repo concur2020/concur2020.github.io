@@ -1,3 +1,11 @@
+---
+layout: single
+title: "Registration"
+sidebar:
+  - nav: "dates"
+---
+
+
 CONCUR 2020 - Call for Participation
 ====================================
 
