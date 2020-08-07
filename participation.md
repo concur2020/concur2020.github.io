@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Registration"
+title: "Call for Participation"
 sidebar:
   - nav: "dates"
 ---
