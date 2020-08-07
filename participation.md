@@ -12,10 +12,10 @@ CONCUR 2020 - Call for Participation
 Deadline for [Early
 Registration](https://qonfest2020.github.io/registration.html): 13 August 2020
 
-https://concur2020.forsyte.at/
 
-The 31th International Conference on Concurrency Theory (CONCUR) will take 
-online on 1-4 September 2020.
+The 31th International Conference on Concurrency Theory
+([CONCUR](https://concur2020.forsyte.at/)) will take online on 1-4 September
+2020.
 
 The purpose of the CONCUR conferences is to bring together researchers, 
 developers, and students in order to advance the theory of concurrency, and 
