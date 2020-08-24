@@ -11,6 +11,11 @@ categories: org
   | __Program Co-chairs__ | [Igor Konnov](https://konnov.github.io/) | Informal Systems, Austria |
   |                       | [Laura Kovacs](https://forsyte.at/people/kovacs/) | TU Wien, Austria |
   | __Workshop Chair__    | [Florian Zuleger](https://forsyte.at/people/zuleger/)  | TU Wien, Austria|
+  | __Student volunteers__ | Márton Hajdúm | TU Wien, Austria |
+  |                       | [Petra Hozzová](https://forsyte.at/people/hozzova/)  | TU Wien, Austria |
+  |                       | [Jure Kukovec](https://informatics.tuwien.ac.at/people/jure-kukovec)  | TU Wien, Austria |
+  |                       | [Marcel Moosbrugger](https://informatics.tuwien.ac.at/people/marcel-moosbrugger)  | TU Wien, Austria |
+  |                       | [Miroslav Stankovic](https://informatics.tuwien.ac.at/people/miroslav-stankovic)  | TU Wien, Austria |
   | __Webmaster__         | [Thanh-Hai Tran](https://forsyte.at/people/tran/) | TU Wien, Austria  |
 
 
