@@ -5,6 +5,21 @@ sidebar:
   - nav: "dates"
 ---
 
+****************************************************************************
+
+**FORMAT:** The pre-recorded talks of CONCUR 2020 will be streamed on Zoom.
+The participants will be able ask questions on Slack, and the speakers will
+answer them live during the online Zoom session. Please check the details at
+the [QONFEST page](https://qonfest2020.github.io/venue.html). All events are
+scheduled according to [Central European Summer Time
+(CEST)](https://time.is/CEST). The registered participants will receive the
+details on connecting to Slack and Zoom.
+
+**PROCEEDINGS:** The conference proceedings volume is available at
+[Dagstuhl server](https://www.dagstuhl.de/dagpub/978-3-95977-160-3).
+
+****************************************************************************
+
 The purpose of CONCUR 2020, the 31st International Conference on Concurrency
 Theory, is to bring together researchers, developers, and students in order to
 advance the theory of concurrency, and promote its applications.
