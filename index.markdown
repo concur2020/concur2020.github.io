@@ -18,6 +18,11 @@ details on connecting to Slack and Zoom.
 **PROCEEDINGS:** The conference proceedings volume is available at
 [Dagstuhl server](https://www.dagstuhl.de/dagpub/978-3-95977-160-3).
 
+**BEST PAPER AWARD:** Check the [nominated papers](best-paper.html). The best paper
+will be announced on **September 1 at 12:00 CEST** at _Social Lunch and Best
+Paper Award_.  See the
+[program](https://easychair.org/smart-program/CONCUR20/).
+
 ****************************************************************************
 
 The purpose of CONCUR 2020, the 31st International Conference on Concurrency

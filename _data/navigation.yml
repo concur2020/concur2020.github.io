@@ -5,14 +5,16 @@ main:
     url: /participation.html
   - title: "Program"
     url: https://easychair.org/smart-program/CONCUR20/
-  - title: "Accepted Papers"
-    url: /accepted.html
-  - title: "Workshops"
-    url: /workshops.html
   - title: "Keynotes"
     url: /keynotes.html
+  - title: "Best Paper Award"
+    url: /best-paper.html
   - title: "Test of Time"
     url: /test-of-time.html
+  - title: "Workshops"
+    url: /workshops.html
+  - title: "Accepted Papers"
+    url: /accepted.html
   - title: "Organization"
     url: /organization.html
   - title: "Call for Papers"
@@ -27,14 +29,16 @@ dates:
         url: /participation.html
       - title: "Program"
         url: https://easychair.org/smart-program/CONCUR20/
-      - title: "Accepted Papers"
-        url: /accepted.html
-      - title: "Workshops"
-        url: /workshops.html
       - title: "Keynotes"
         url: /keynotes.html
+      - title: "Best Paper Award"
+        url: /best-paper.html
       - title: "Test of Time"
         url: /test-of-time.html
+      - title: "Workshops"
+        url: /workshops.html
+      - title: "Accepted Papers"
+        url: /accepted.html
       - title: "Organization"
         url: /organization.html
       - title: "Call for Papers"
