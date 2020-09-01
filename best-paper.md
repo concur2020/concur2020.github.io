@@ -5,6 +5,17 @@ date:   2020-08-27 19:00:00 +0200
 categories: papers
 ---
 
+Following the PC vote, the best paper award goes to:
+
+__Benedikt Bollig, Alain Finkel and Amrita Suresh__: Bounded Reachability
+Problems are Decidable in FIFO Machines
+[[paper](https://drops.dagstuhl.de/opus/frontdoor.php?source_opus=12861)]
+
+The best paper was announced
+**September 1 at 12:00 CEST** at _Social Lunch and Best Paper Award_. See the
+[program](https://easychair.org/smart-program/CONCUR20/).
+
+
 The four papers have been nominated by the Program Committee for the
 best paper award:
 
