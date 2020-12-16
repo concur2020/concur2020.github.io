@@ -19,6 +19,7 @@ Awards 2020, together with their citations, are:
 ## Period 1990-1993
 
 __Rob van Glabbeek__. The Linear Time-Branching Time Spectrum
+    [[certificate]](./assets/images/certificate-van-glabbeek.pdf)
 
 Citation: The companion papers on "The Linear Time-Branching Time Spectrum",
 published by Rob van Glabbeek at CONCUR 1990 and 1993, jointly receive one
@@ -36,6 +37,7 @@ by Luca Aceto.
 
 __Søren Christensen, Hans Hüttel and Colin Stirling__.
     Bisimulation Equivalence is Decidable for all Context-Free Processes
+   [[certificate]](./assets/images/certificate-christensen-et-al.pdf)
 
 Citation: The paper "Bisimulation Equivalence is Decidable for all Context-Free
 Processes", published by Søren Christensen, Hans Hüttel and Colin Stirling at
@@ -58,6 +60,7 @@ by Luca Aceto.
 
 __Roberto Segala and Nancy Lynch__.
 Probabilistic simulations for probabilistic processes
+   [[certificate]](./assets/images/certificate-segala-and-lynch.pdf)
 
 Citation: The paper "Probabilistic simulations for probabilistic processes",
 published by Roberto Segala and Nancy Lynch at CONCUR 1994, receives one award
@@ -78,6 +81,7 @@ Lynch](https://processalgebra.blogspot.com/2020/04/an-interview-with-nancy-lynch
 by Luca Aceto.
 
 __Davide Sangiorgi__. A Theory of Bisimulation for the pi-Calculus
+   [[certificate]](./assets/images/certificate-sangiorgi.pdf)
 
 Citation: The paper "A Theory of Bisimulation for the pi-Calculus", published
 by Davide Sangiorgi in CONCUR 1993, receives one award for introducing the
